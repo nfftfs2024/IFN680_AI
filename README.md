@@ -5,7 +5,6 @@ Python scripts to implment classifications on images by using convolutional neur
 ## Built With
 
 * Python - Sklearn, Keras
-* Apache Lucene text analyzer
 
 ## Authors
 
